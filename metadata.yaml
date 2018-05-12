@@ -1,0 +1,35 @@
+_repo: Mrs.-Raffles--Being-the-Adventures-of-an-Amateur-Crackswoman_30853
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Levering, Albert
+    birthdate: 1869
+    deathdate: 1929
+    gutenberg_agent_id: '25625'
+    url: http://www.gutenberg.org/2009/agents/25625
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bangs, John Kendrick
+    birthdate: 1862
+    deathdate: 1922
+    gutenberg_agent_id: '979'
+    url: http://www.gutenberg.org/2009/agents/979
+    wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
+description: ''
+gutenberg_issued: '2010-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30853'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jewel thieves -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Hornung, E. W. (Ernest William), 1866-1921 -- Parodies, imitations, etc.'
+title: 'Mrs. Raffles: Being the Adventures of an Amateur Crackswoman'
+url: http://www.gutenberg.org/ebooks/30853
